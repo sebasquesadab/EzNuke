@@ -1,0 +1,2 @@
+# DiscordNuker
+Discord Account Nuker
