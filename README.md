@@ -14,7 +14,6 @@ This nuker abuses the discord api to mess with user accounts.
 - Run The Following Command To Start The Nuker
     - python3 Nuker.py
     - Follow Instructions In The Program
-    - 
 
 ## Preview
 ![Image](https://cdn.discordapp.com/attachments/840273256464252959/844025805020463174/unknown.png)
