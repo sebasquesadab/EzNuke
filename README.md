@@ -5,7 +5,7 @@ This nuker abuses the discord api to mess with user accounts.
 
 ## Installation
 
-- Install Python From [Here](https://[python.org])
+- Install Python From [Here](https://python.org)
 - Run The Following Commands To Install Required Modules
     - pip3 install colorama
     - pip3 install requests
