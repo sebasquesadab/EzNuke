@@ -17,7 +17,7 @@ This nuker abuses the discord api to mess with user accounts.
     - 
 
 ## Preview
-![][<https://cdn.discordapp.com/attachments/840273256464252959/844025805020463174/unknown.png>]
+![img][<https://cdn.discordapp.com/attachments/840273256464252959/844025805020463174/unknown.png>]
 
 ## Todo
 - Add An Option To Multiprocess Or Multithread Every Module
